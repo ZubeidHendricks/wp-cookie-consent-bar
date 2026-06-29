@@ -1,5 +1,7 @@
 # Cookie Consent Bar
 
+🌐 **[Browse all plugins](https://zubeidhendricks.github.io/wp-plugins-site/)** · ⬇️ **[Download .zip](https://github.com/ZubeidHendricks/wp-cookie-consent-bar/releases/latest/download/cookie-consent-bar.zip)**
+
 A lightweight, GDPR-friendly cookie consent banner with accept/decline and a
 remembered choice — no bloat, no external calls. Part of the
 [Zub Plugin Factory](https://github.com/ZubeidHendricks/wp-plugin-factory).
